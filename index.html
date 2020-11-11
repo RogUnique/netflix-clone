@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style/main.css">
+
+     <!--Responsividade-->
+     <link rel = "stylesheet" href="style/responsive.css"> 
+    
+     <link rel="stylesheet" href="style/main.css">
     
     <!--OWL CSS-->
     <link rel ="stylesheet" href="style/owl/owl.carousel.min.css">
@@ -9,13 +13,12 @@
     
 
 
-    <!--Responsividade-->
-    <link rel = "stylesheet" href="style/responsive.css">
+   
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>NETFLIX CLONE</title>
+    <title>Netflix Clone</title>
 </head>
 <body>
     <header>
@@ -35,18 +38,18 @@
             
             <div class="container">
                     <h2 class="titulo">O Gambito da Rainha</h2>
-                    <p class="descricao">Durante a Guerra Fria, em um orfanato do Kentucky, uma garota prodígio do xadrez luta contra o vício para se tornar a número um do mundo.</p>
+                    <p class="descricao"><span style="font-weight: bold;padding-bottom: 10px;">Assita à temporada 1 agora</span> <br> Durante a Guerra Fria, em um orfanato do Kentucky, uma garota prodígio do xadrez luta contra o vício para se tornar a número um do mundo.</p>
                     <div class="botoes">
-                        <button role="button", class="botao page" >
+                        <button role="button", class="botao page" id="BtnPlay" >
                             <i class="fas fa-play"></i>
-                            <a  href = "#media-popup" data-media="//www.youtube.com/embed/cnqV3wsZlpo"> ASSISTIR    AGORA </a> 
+                            <a  href = "#media-popup" data-media="//www.youtube.com/embed/cnqV3wsZlpo"> Assistir</a> 
                             <div class="popup" id="media-popup">
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/cnqV3wsZlpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </button>
-                        <button role="button", class="botao">
+                        <button role="button", class="botao" id="BtnInfo">
                             <i class="fas fa-info-circle"></i>
-                            <a href="https://www.themoviedb.org/tv/87739-the-queen-s-gambit?language=pt-BR" target="#_blank"> MAIS INFORMAÇÕES </a>
+                            <a href="https://www.themoviedb.org/tv/87739-the-queen-s-gambit?language=pt-BR" target="#_blank"> Mais Informações </a>
                             
                             
                         </button>

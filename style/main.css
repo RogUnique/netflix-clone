@@ -1,5 +1,5 @@
 :root {
-    --vermelho: #E50914;
+    --vermelho:#e50914;
     --preta: #141414;
 }
 
@@ -58,7 +58,7 @@ header nav a:hover {
 
 .filme-principal .descricao {
     margin-bottom: 40px;
-    max-width: 60%;
+    max-width: 90%;
     
 }
 
@@ -77,36 +77,45 @@ header nav a:hover {
     padding: 15px 30px;
     margin-right: 15px;
     font-size: 12px;
+    border-radius: 5px;
 
     cursor:pointer;
     transition: .3s ease all;
+
 }
 
 .botao:hover{
-    background-color: white;
-    color: black;
+    opacity: 70%;
 }
 
 .botao i {
     margin-right: 8px;
+    
     
    
 }
 
 .botao a {
     text-decoration: none;
-    
+    color: inherit; 
 }
 
  #BtnInfo {
-     
+    
+    color:white;
     background-color: rgba(109,109,110,0.7);
     font-weight: bold;
+    font-size: 0.8rem;
+    
+    
+   
 }
 
 #BtnPlay {
     background-color: white;
-    
+    color:black;
+    font-weight: bold;  
+    font-size: 0.8rem;
     
      }
 .container {
