@@ -16,5 +16,8 @@ Durante as aulas para está recriação aprendemos conceitos como:
 * Oganização de projetos.
 
 
+### O que fiz de diferente?
 
+* Adicionei botões mais atuais 
+* Adicionei um PoupUp no trailer do filme principal utilizando JS e iframe.
 
