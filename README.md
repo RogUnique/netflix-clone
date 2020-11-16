@@ -8,12 +8,12 @@ Projeto do tipo recriação feito no bootcamp da <a href="https://web.digitalinn
 ### Temas estudados
 
 Durante as aulas para está recriação aprendemos conceitos como: 
-*Flex Box 
-*Plugins JS(Jquery) 
-*Box-Model 
-*CSS
-*truturação do documento HTML
-*Oganização de projetos.
+* Flex Box 
+* Plugins JS(Jquery) 
+* Box-Model 
+* CSS
+* truturação do documento HTML
+* Oganização de projetos.
 
 
 
