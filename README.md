@@ -21,3 +21,6 @@ Durante as aulas para está recriação aprendemos conceitos como:
 * Adicionei botões mais atuais 
 * Adicionei um PoupUp no trailer do filme principal utilizando JS e iframe.
 
+### Deploy
+
+Visite a página clicando <a href="https://rogunique.github.io/netflix-clone/">aqui.</a>
