@@ -12,7 +12,7 @@ Durante as aulas para está recriação aprendemos conceitos como:
 * Plugins JS(Jquery) 
 * Box-Model 
 * CSS
-* truturação do documento HTML
+* EStruturação do documento HTML
 * Oganização de projetos.
 
 
